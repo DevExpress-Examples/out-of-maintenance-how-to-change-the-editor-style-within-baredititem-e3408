@@ -2,8 +2,8 @@
 *Files to look at*:
 
 * **[MainPage.xaml](./CS/HowToChangeEditorStyleInBarEditItem/MainPage.xaml) (VB: [MainPage.xaml](./VB/HowToChangeEditorStyleInBarEditItem/MainPage.xaml))**
-* [MainPage.xaml.cs](./CS/HowToChangeEditorStyleInBarEditItem/MainPage.xaml.cs) (VB: [MainPage.xaml](./VB/HowToChangeEditorStyleInBarEditItem/MainPage.xaml))
-* [MainWindow.xaml](./CS/HowToChangeEditorStyleInBarEditItem/MainWindow.xaml) (VB: [MainWindow.xaml.vb](./VB/HowToChangeEditorStyleInBarEditItem/MainWindow.xaml.vb))
+* [MainPage.xaml.cs](./CS/HowToChangeEditorStyleInBarEditItem/MainPage.xaml.cs) (VB: [MainPage.xaml.vb](./VB/HowToChangeEditorStyleInBarEditItem/MainPage.xaml.vb))
+* [MainWindow.xaml](./CS/HowToChangeEditorStyleInBarEditItem/MainWindow.xaml) (VB: [MainWindow.xaml](./VB/HowToChangeEditorStyleInBarEditItem/MainWindow.xaml))
 * [MainWindow.xaml.cs](./CS/HowToChangeEditorStyleInBarEditItem/MainWindow.xaml.cs) (VB: [MainWindow.xaml.vb](./VB/HowToChangeEditorStyleInBarEditItem/MainWindow.xaml.vb))
 <!-- default file list end -->
 # How to change the editor style within BarEditItem
