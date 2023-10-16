@@ -1,9 +1,0 @@
-<Window x:Class="HowToChangeEditorStyleInBarEditItem.MainWindow"
-        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
-        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
-        xmlns:local="clr-namespace:HowToChangeEditorStyleInBarEditItem"
-        Title="MainWindow" Height="350" Width="525">
-    <Grid>
-        <local:MainPage/>
-    </Grid>
-</Window>
